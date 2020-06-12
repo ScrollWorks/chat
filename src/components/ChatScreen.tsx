@@ -13,7 +13,6 @@ const Wrapper = styled.main`
     > .messageInput {
         flex: 0 0 auto;
     }
-    height: 100vh;
 `;
 
 const ChatScreen = (): JSX.Element => {
