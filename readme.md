@@ -1,4 +1,20 @@
 # Chat application by Ruben Serrate
+## How to ruun it?
+First of all, there's a hosted version accessible on [this link](http://ec2-3-250-12-178.eu-west-1.compute.amazonaws.com:8088/)
+
+
+To get it running locally, after cloning the repository, run the following commands to compile and bundle the client files
+`npm install`
+`npm run build`
+
+now we can go ahead and start the server:
+`cd server`
+`npm install`
+`npm run start`
+
+And you should see the following message "Chat server ready on port 8088",
+at that point you should be able to access the application on [http://localhost:8088/](http://localhost:8088/)
+
 ## What is it?
 As part of the technical assignment for an interview, I was asked to create this chat application, written in Typescript, which uses socket.io to communicate with a NodeJs server.
 
