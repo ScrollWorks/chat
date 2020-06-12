@@ -24,6 +24,7 @@ const Wrapper = styled.main`
     align-items: center;
     font-size: ${({ theme }) => theme.settingsPageFontSize};
     form {
+        overflow: scroll;
         padding: ${({ theme }) => theme.spacing.double} ${({ theme }) => theme.spacing.regular};
     }
 `;
