@@ -1,0 +1,21 @@
+{
+    "title": "Chat application by Ruben Serrate",
+    "inputPlaceholder": "Type your message here",
+    "sending": "sending...",
+    "navigationTitle_chat": "Chat",
+    "navigationTitle_settings": "Settings",
+    "username": "User name",
+    "lightThemeLabel": "Light",
+    "darkThemeLabel": "Dark",
+    "clockStyle12": "12 Hours",
+    "clockStyle24": "24 Hours",
+    "interfaceColor": "Interface Color",
+    "clockStyle": "Clock Display",
+    "sendOnEnter": "Send messages on CTRL + ENTER",
+    "language": "Language",
+    "es": "Spanish",
+    "en": "English",
+    "on": "On",
+    "off": "Off",
+    "useDefaults": "Reset to defaults"
+}

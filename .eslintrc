@@ -1,0 +1,20 @@
+{
+    "root": true,
+    "rules": {
+        "object-curly-spacing": [1, "always"],
+        "semi": [1, "always"],
+        "indent": [1, 4],
+        "require-jsdoc": "off",
+        "no-trailing-spaces": 1,
+        "quotes": [1, "single"]
+    },    
+    "plugins": [
+      "@typescript-eslint"
+    ],
+    "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended"
+    ]
+  }
